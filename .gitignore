@@ -1,0 +1,18 @@
+# Compilados e build
+target/
+*.class
+
+# Relatorios do Allure
+allure-results/
+allure-report/
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# Sistema
+.DS_Store
